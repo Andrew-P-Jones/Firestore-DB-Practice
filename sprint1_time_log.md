@@ -31,15 +31,21 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/25      |2:00      | TP     |  Planning and project setup                |60           |
 |9/27      |2:00      | MTG    |  Stand-up                                  |60           |
 |9/27      |1:00      | IM     |  Enviornment setup                         |60           |
+|9/28      |6:30      | TP     |  Research firebase with javascript         |15           |
+|9/30      |2:00      | TP     |  In-class project coordination             |60           |
+|10/1      |10:00     | IM     |  Watching tutorials and reading syntax     |75           |
 |          |          |        |                                            |             |
-
+|          |          |        |                                            |             |
+|          |          |        |                                            |             |
+|          |          |        |                                            |             |
+|          |          |        |                                            |             |
 _Note: Add more rows as needed._
 
 ## Sprint Totals
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
+|IM - Individual Module         | 2:30                     |
+|TP - Team Project              | 2:15                     |
+|MTG - Class Meetings           | 2:00                     |
 |**TOTAL**                      |                          |
