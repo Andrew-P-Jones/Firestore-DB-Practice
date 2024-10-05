@@ -34,10 +34,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/28      |6:30      | TP     |  Research firebase with javascript         |15           |
 |9/30      |2:00      | TP     |  In-class project coordination             |60           |
 |10/1      |10:00     | IM     |  Watching tutorials and reading syntax     |75           |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|10/2      |2:00      | MTG    |  Team Review                               |60           |
+|10/3      |5:45      | IM     |  Reading and adding queries                |60           |
+|10/4      |10:45     | IM     |  Researching firebase auth                 |30           |
+|10/4      |5:15      | IM     |Tried using firebase auth,gave up,finished queries| 120   |
 |          |          |        |                                            |             |
 _Note: Add more rows as needed._
 
@@ -45,7 +45,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         | 2:30                     |
+|IM - Individual Module         | 6:00                     |
 |TP - Team Project              | 2:15                     |
-|MTG - Class Meetings           | 2:00                     |
+|MTG - Class Meetings           | 3:00                     |
 |**TOTAL**                      |                          |
