@@ -38,14 +38,15 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |10/3      |5:45      | IM     |  Reading and adding queries                |60           |
 |10/4      |10:45     | IM     |  Researching firebase auth                 |30           |
 |10/4      |5:15      | IM     |Tried using firebase auth,gave up,finished queries| 120   |
-|          |          |        |                                            |             |
+|10/5      |8:00      | IM     |Trying to use tkinter to make a GUI         |120          |
+|10/5      |12:00     | IM     | Configuring firebase auth                  |60           |
 _Note: Add more rows as needed._
 
 ## Sprint Totals
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         | 6:00                     |
+|IM - Individual Module         | 9:00                     |
 |TP - Team Project              | 2:15                     |
 |MTG - Class Meetings           | 3:00                     |
 |**TOTAL**                      |                          |
