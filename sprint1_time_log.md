@@ -42,8 +42,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |10/5      |8:00      | IM     | Trying to use tkinter to make a GUI        |120          |
 |10/5      |12:00     | IM     | Configuring firebase auth                  |60           |
 |10/5      |5:15      | IM     | Adding comments and organizing             |30           |
-|10/5      |8:00      | IM     |                                            |30           |
-|10/5      |      | IP     | 
+|10/5      |8:00      | IM     |  Finishing the readme and comments         |30           |
+|10/5      |9:30      | IP     | Reading about frameworks and react/frontend dev|105      |
 _Note: Add more rows as needed._
 
 ## Sprint Totals
@@ -51,6 +51,6 @@ _Note: Add more rows as needed._
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
 |IM - Individual Module         | 10:00                    |
-|TP - Team Project              | 2:15                     |
+|TP - Team Project              | 4:00                     |
 |MTG - Class Meetings           | 4:00                     |
 |**TOTAL**                      |                          |
